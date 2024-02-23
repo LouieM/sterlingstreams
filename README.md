@@ -1,2 +1,2 @@
 SterlingStreams
-A personal website to highlight arial imaging services I offer.
+A personal website to highlight aerial imaging services I offer.
